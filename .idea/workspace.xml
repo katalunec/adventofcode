@@ -24,27 +24,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/adventofcode/day4/problem2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/adventofcode/day5/problem2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day5/problem2" />
+      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day5/problem1" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day4/problem2" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day4/problem1" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day3/problem2" />
-      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day3/problem1" />
-      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day2/problem2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.day4.problem2.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.day5.problem2.Solution" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="adventofcode.day4.problem2.*" />
+          <option name="PATTERN" value="adventofcode.day5.problem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.day4.problem2.Test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.day5.problem1.Solution" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="adventofcode.day4.problem2.*" />
+          <option name="PATTERN" value="adventofcode.day5.problem1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +67,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +82,8 @@
       <workItem from="1606840713881" duration="627000" />
       <workItem from="1606900557478" duration="3355000" />
       <workItem from="1606983041183" duration="3327000" />
-      <workItem from="1607065319675" duration="9826000" />
+      <workItem from="1607065319675" duration="10331000" />
+      <workItem from="1607160897890" duration="4888000" />
     </task>
     <servers />
   </component>
@@ -91,54 +92,54 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1606840809972" />
-    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607079333735">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607163191292">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607079333735" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607163191292" />
     <state width="423" height="466" key="DebuggerActiveHint" timestamp="1607070754539">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607070754539" />
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom" timestamp="1607080613397">
+    <state width="1659" height="363" key="GridCell.Tab.0.bottom" timestamp="1607178984898">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613397" />
-    <state width="1659" height="363" key="GridCell.Tab.0.center" timestamp="1607080613395">
+    <state width="1659" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984898" />
+    <state width="1659" height="363" key="GridCell.Tab.0.center" timestamp="1607178984897">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613395" />
-    <state width="1659" height="363" key="GridCell.Tab.0.left" timestamp="1607080613394">
+    <state width="1659" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984897" />
+    <state width="1659" height="363" key="GridCell.Tab.0.left" timestamp="1607178984896">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613394" />
-    <state width="1659" height="363" key="GridCell.Tab.0.right" timestamp="1607080613396">
+    <state width="1659" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984896" />
+    <state width="1659" height="363" key="GridCell.Tab.0.right" timestamp="1607178984897">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613396" />
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1607080613400">
+    <state width="1659" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984897" />
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1607178984900">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613400" />
-    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1607080613398">
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984900" />
+    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1607178984899">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613398" />
-    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1607080613398">
+    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984899" />
+    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1607178984899">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613398" />
-    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1607080613399">
+    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984899" />
+    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1607178984899">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607080613399" />
+    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607178984899" />
     <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1606983043067">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606983043067" />
-    <state x="505" y="233" key="search.everywhere.popup" timestamp="1606984137028">
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1607178578431">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1606984137028" />
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1607178578431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -162,6 +163,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day4/problem2/Solution.java</url>
           <line>96</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day5/problem1/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day5/problem1/Solution.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day5/problem2/Solution.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
