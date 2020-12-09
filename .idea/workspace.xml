@@ -24,40 +24,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/adventofcode/day8/problem2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/adventofcode/day9/problem2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day9/problem2" />
+      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day9/problem1" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day8/problem2" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day8/problem1" />
       <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day7/problem2" />
-      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day7/problem1" />
-      <recent name="$PROJECT_DIR$/src/main/java/adventofcode/day6/problem2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.day6.problem2.Solution" />
+      <option name="MAIN_CLASS_NAME" value="adventofcode.day9.problem2.Solution" />
       <module name="main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="adventofcode.day6.problem2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adventofcode.day7.problem1.Solution" />
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="adventofcode.day7.problem1.*" />
+          <option name="PATTERN" value="adventofcode.day9.problem2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adventofcode.day9.problem1.Solution" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adventofcode.day9.problem1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,8 @@
       <workItem from="1607160897890" duration="5106000" />
       <workItem from="1607245901162" duration="3329000" />
       <workItem from="1607372445640" duration="5913000" />
-      <workItem from="1607425572737" duration="4485000" />
+      <workItem from="1607425572737" duration="4986000" />
+      <workItem from="1607537503185" duration="4099000" />
     </task>
     <servers />
   </component>
@@ -149,42 +150,42 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1607070754539" />
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom" timestamp="1607454040613">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1607542030697">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040613" />
-    <state width="1659" height="363" key="GridCell.Tab.0.center" timestamp="1607454040611">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607542030697" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1607542030695">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040611" />
-    <state width="1659" height="363" key="GridCell.Tab.0.left" timestamp="1607454040611">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607542030695" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1607542030694">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040611" />
-    <state width="1659" height="363" key="GridCell.Tab.0.right" timestamp="1607454040612">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607542030694" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1607542030696">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040612" />
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1607454040615">
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607542030696" />
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1607540261092">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040615" />
-    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1607454040614">
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607540261092" />
+    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1607540261091">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040614" />
-    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1607454040613">
+    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607540261091" />
+    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1607540261090">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040613" />
-    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1607454040615">
+    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607540261090" />
+    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1607540261091">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607454040615" />
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1607425572720">
+    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607540261091" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1607537503467">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607425572720" />
+    <state x="519" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607537503467" />
     <state x="410" y="268" width="860" height="590" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607377866989">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -211,7 +212,27 @@
           <line>42</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day8/problem2/Solution.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day9/problem1/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/adventofcode/day9/problem1/Solution.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="numbers.get(i)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
